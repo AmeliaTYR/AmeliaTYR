@@ -1,4 +1,16 @@
+
 ### Hi there 👋
+
+I'm Amelia, currently a 2nd year undergraduate at National University of Singapore (NUS), pursuing a Bachelor of Engineering (BEng) (Computer Engineering).
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amelia-tan-07329a1a3/)
+
+
+### Contribution Statistics
+
+[![Amelia's Github Stats](https://github-readme-stats.vercel.app/api?username=ameliatyr&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Amelia's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameliatyr&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **AmeliaTYR/AmeliaTYR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
