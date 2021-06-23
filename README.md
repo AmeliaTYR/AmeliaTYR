@@ -1,7 +1,9 @@
 
-### Hi there 👋
+<h3>Hi there!</h>
 
-I'm Amelia, currently a 2nd year undergraduate at National University of Singapore (NUS), pursuing a Bachelor of Engineering (BEng) (Computer Engineering) with a Minor in Business Analytics!
+<p>I&apos;m Amelia, currently a 3rdyear undergraduate at National University of Singapore (NUS), pursuing a Bachelor of Engineering (BEng) (Computer Engineering) with the IoT Specialization and a Minor in Business Analytics!</p>
+
+<p>I love to participate in hackathons and learn new things.</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amelia-tan-07329a1a3/)
 
