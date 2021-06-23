@@ -32,7 +32,8 @@
   
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
-  
+
+<img src="https://img.shields.io/badge/-Git-black?style=plastic&logo=git" height="25"/>
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="25"/>
 
 
@@ -75,12 +76,15 @@
 <img src="" height="25"/>
 </p>
 -->
-<!--
 
+[Devpost](https://devpost.com/AmeliaTYR)
+
+<!--
 [![Amelia's Github Stats](https://github-readme-stats.vercel.app/api?username=ameliatyr&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Amelia's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameliatyr&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 -->
+
+
 
 <!--
 **AmeliaTYR/AmeliaTYR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
