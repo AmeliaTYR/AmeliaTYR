@@ -88,12 +88,12 @@ Check out my [Devpost profile](https://devpost.com/AmeliaTYR)
 <details>
 
 <summary>My GitHub Stats</summary>
-[![Amelia's Github Stats](https://github-readme-stats.vercel.app/api?username=ameliatyr&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Amelia's Github Stats](https://github-readme-stats.vercel.app/api?username=ameliatyr&count_private=true&theme=tokyonight)(https://github.com/anuraghazra/github-readme-stats)
 (https://github.com/anuraghazra/github-readme-stats)
   
 <br>
   
-[![Amelia's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameliatyr&layout=compact&langs_count=10&theme=tokyonight)]
+![Amelia's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameliatyr&layout=compact&langs_count=10&theme=tokyonight)
 
 </details>
 
