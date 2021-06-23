@@ -78,7 +78,7 @@
 -->
 
 
-Check out my [Devpost](https://devpost.com/AmeliaTYR)
+Check out my [Devpost profile](https://devpost.com/AmeliaTYR)
 
 <!--
 [![Amelia's Github Stats](https://github-readme-stats.vercel.app/api?username=ameliatyr&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
