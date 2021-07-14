@@ -11,7 +11,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amelia-tan-07329a1a3/)
 
 
-<h3>Skills</h3>
+<h3>Skills &  experience</h3>
 
 <p align="center">
   <!-- Languages -->
@@ -33,6 +33,7 @@
     
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/>
   
+  <!-- App Dev -->
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/>
 
 <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" height="25"/>
