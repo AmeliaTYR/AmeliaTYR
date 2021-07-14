@@ -87,7 +87,7 @@ Check out my [Devpost profile](https://devpost.com/AmeliaTYR)
 
 <details>
 
-<summary>My Top Langs</summary>
+<summary>My Top Languages</summary>
   
 ![Amelia's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameliatyr&layout=compact&langs_count=10&theme=tokyonight)
 
