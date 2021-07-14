@@ -85,32 +85,17 @@
 
 Check out my [Devpost profile](https://devpost.com/AmeliaTYR)
 
+<details>
 
-<!-- ![Amelia's Github Stats](https://github-readme-stats.vercel.app/api?username=ameliatyr&count_private=true&theme=tokyonight) -->
-
-
-<!-- <details>
-
-<summary>My GitHub Stats</summary>
-![Amelia's Github Stats](https://github-readme-stats.vercel.app/api?username=ameliatyr&count_private=true&theme=tokyonight)
-  
+<summary>My Top Langs</summary>
   
 ![Amelia's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameliatyr&layout=compact&langs_count=10&theme=tokyonight)
 
-</details> -->
+</details>
 
+<details>
+<summary>My GitHub Stats</summary>
 
-<!--
-**AmeliaTYR/AmeliaTYR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Amelia's Github Stats](https://github-readme-stats.vercel.app/api?username=ameliatyr&count_private=true&theme=tokyonight)
+</details>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...❤️
--->
