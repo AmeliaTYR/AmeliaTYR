@@ -1,7 +1,7 @@
 
 <h3>Hi there!</h3>
 
-<p>I&apos;m Amelia</p>
+<p>I&apos;m Amelia :D</p>
 
 <!-- <div>
 <p>I&apos;m Amelia, currently a 3rd year undergraduate at National University of Singapore (NUS), pursuing a Bachelor of Engineering (BEng) (Computer Engineering) with the IoT Specialization and a Minor in Business Analytics!</p> -->
