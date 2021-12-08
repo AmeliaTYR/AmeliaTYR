@@ -90,7 +90,7 @@ Google Suite?
 -->
 
 
-Check out my [Devpost profile](https://devpost.com/AmeliaTYR)
+Check out my [Devpost profile](https://devpost.com/AmeliaTYR)!
 
 <details>
 
