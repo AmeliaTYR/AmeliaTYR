@@ -104,5 +104,6 @@ Check out my [Devpost profile](https://devpost.com/AmeliaTYR)!
 <summary>My GitHub Stats</summary>
 
 ![Amelia's Github Stats](https://github-readme-stats.vercel.app/api?username=ameliatyr&count_private=true&theme=tokyonight)
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ameliatyr&theme=tokyonight" />
 </details>
 
