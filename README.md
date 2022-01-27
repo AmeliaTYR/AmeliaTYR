@@ -14,7 +14,7 @@
 
 
 <h3>Skills &  experience</h3>
-<p>These are the tech that I have had experience with from various module and havkathon projects</p>
+<p>These are the tech that I have had experience with from various module and havkathon projects:</p>
 <p align="center">
   <!-- Languages -->
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
