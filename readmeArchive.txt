@@ -1,13 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h3>Skills &  experience</h3>
+
+<h3>Hi there!</h3>
+
+<p>I&apos;m Amelia :D</p>
+
+<!-- <div>
+<p>I&apos;m Amelia, currently a final year undergraduate at National University of Singapore (NUS), pursuing a Bachelor of Engineering (BEng) (Computer Engineering) with the IoT Specialization and a Minor in Business Analytics!</p> -->
+
+<p>I love to participate in hackathons and learn new things.</p>
+  
+</div>
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amelia-tan-07329a1a3/)
+
+
+<h3>Skills &  experience</h3>
 <p>These are the tech that I have had experience with from various module and hackathon projects:</p>
 <p align="center">
   <!-- Languages -->
@@ -73,5 +79,60 @@
 </p>
 
 
-</body>
-</html>
+<!-- Skills on the way -->
+<!--
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25"/>
+
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="25"/>
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="25"/>
+
+<img src="" height="25"/>
+<img src="" height="25"/>
+
+
+<p align="center">
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" height="25"/>
+
+
+
+<img src="" height="25"/>
+<img src="" height="25"/>
+</p>
+-->
+
+<!-- Skills to learn -->
+<!--
+<p align="center">
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="25"/>
+
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" height="25"/>
+
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="25"/>
+Google Suite?
+<img src="" height="25"/>
+<img src="" height="25"/>
+</p>
+
+https://dev.to/envoy_/150-badges-for-github-pnk
+-->
+
+
+Check out my [Devpost profile](https://devpost.com/AmeliaTYR)!
+
+<details>
+
+<summary>My Top Languages</summary>
+  
+![Amelia's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameliatyr&layout=compact&langs_count=10&theme=tokyonight)
+
+</details>
+
+
+![Amelia's Github Stats](https://github-readme-stats.vercel.app/api?username=ameliatyr&count_private=true&theme=tokyonight)
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ameliatyr&theme=tokyonight" />
+  [![Amelia's github activity graph](https://activity-graph.herokuapp.com/graph?username=ameliatyr&theme=xcode)](https://git.io/ameliatyr)
