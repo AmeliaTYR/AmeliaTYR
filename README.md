@@ -132,11 +132,7 @@ Check out my [Devpost profile](https://devpost.com/AmeliaTYR)!
 
 </details>
 
-<details>
-<summary>My GitHub Stats</summary>
 
 ![Amelia's Github Stats](https://github-readme-stats.vercel.app/api?username=ameliatyr&count_private=true&theme=tokyonight)
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ameliatyr&theme=tokyonight" />
   [![Amelia's github activity graph](https://activity-graph.herokuapp.com/graph?username=ameliatyr&theme=xcode)](https://git.io/ameliatyr)
-</details>
-
