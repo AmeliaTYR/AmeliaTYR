@@ -73,3 +73,4 @@
 
 Credit for svg idea
   https://github.com/sindresorhus/css-in-readme-like-wat
+  https://developer.mozilla.org/en-US/docs/Web/SVG/Element/foreignObject
