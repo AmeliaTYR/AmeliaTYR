@@ -70,3 +70,6 @@
   <a href="https://www.google.com/">
 		<img src="test.svg" width="800" height="400" alt="Click to see the source">
 	</a>
+
+Credit for svg idea
+  https://github.com/sindresorhus/css-in-readme-like-wat
