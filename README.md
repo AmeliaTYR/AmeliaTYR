@@ -84,9 +84,8 @@
     <th>Project</th>
   </tr>
   <tr>
-    <td>  
     <td>App Dev</td>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="25"/></td>
+    <td><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="25"/></td>
     <td>AstroLearners</td>
   </tr>
   <tr>
