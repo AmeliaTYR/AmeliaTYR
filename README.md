@@ -45,6 +45,10 @@
   <!-- App Dev -->
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/>
 
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
+
+<!-- Git -->
 <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" height="25"/>
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="25"/>
 
@@ -75,8 +79,7 @@
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="25"/>
   
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
+
 </p>
 
 
@@ -86,46 +89,28 @@
 
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="25"/>
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="25"/>
 
-<img src="" height="25"/>
-<img src="" height="25"/>
-
-
-<p align="center">
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" height="25"/>
-
-
-
-<img src="" height="25"/>
-<img src="" height="25"/>
-</p>
 -->
 
 <!-- Skills to learn -->
 <!--
 <p align="center">
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="25"/>
-
-
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" height="25"/>
 
-
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="25"/>
-Google Suite?
-<img src="" height="25"/>
-<img src="" height="25"/>
+
 </p>
+
+Others: Google Suite?
 
 https://dev.to/envoy_/150-badges-for-github-pnk
 -->
 
 
-Check out my [`Devpost profile`](https://devpost.com/AmeliaTYR)!
+Check out my [`Devpost profile`](https://devpost.com/AmeliaTYR) to see my project gallery!
 
 <details>
 
@@ -135,6 +120,8 @@ Check out my [`Devpost profile`](https://devpost.com/AmeliaTYR)!
 
 </details>
 
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ameliatyr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ameliatyr&theme=tokyonight" />
 
-![Amelia's Github Stats](https://github-readme-stats.vercel.app/api?username=ameliatyr&count_private=true&theme=tokyonight) <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ameliatyr&theme=tokyonight" /> 
-  [![Amelia's github activity graph](https://activity-graph.herokuapp.com/graph?username=ameliatyr&theme=xcode)](https://git.io/ameliatyr)
+[![Amelia's github activity graph](https://activity-graph.herokuapp.com/graph?username=ameliatyr&theme=xcode)](https://git.io/ameliatyr)
+</div>
