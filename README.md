@@ -125,7 +125,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 -->
 
 
-Check out my [Devpost profile](https://devpost.com/AmeliaTYR)!
+Check out my [`Devpost profile`](https://devpost.com/AmeliaTYR)!
 
 <details>
 
