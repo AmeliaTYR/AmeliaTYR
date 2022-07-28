@@ -152,7 +152,15 @@ Check out my [Devpost profile](https://devpost.com/AmeliaTYR)!
 <summary>My GitHub Stats</summary>
 
 ![Amelia's Github Stats](https://github-readme-stats.vercel.app/api?username=ameliatyr&count_private=true&theme=tokyonight)
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ameliatyr&theme=tokyonight" />
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=ameliatyr&theme=tokyonight" />
   [![Amelia's github activity graph](https://activity-graph.herokuapp.com/graph?username=ameliatyr&theme=xcode)](https://git.io/ameliatyr)
 </details>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ameliatyr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img   width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ameliatyr&theme=tokyonight" />
+  <a href="https://github.com/euaaron">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ameliatyr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameliatyr&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
 
