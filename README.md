@@ -6,7 +6,7 @@
 <!-- <div>
 <p>I&apos;m Amelia, currently a final year undergraduate at National University of Singapore (NUS), pursuing a Bachelor of Engineering (BEng) (Computer Engineering) with the IoT Specialization and a Minor in Business Analytics!</p> -->
 
-<p>I love to participate in hackathons and learn new things.</p>
+<p>My hobby is competing in hackathons and learning new things in tech!</p>
   
 </div>
 
