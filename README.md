@@ -112,6 +112,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 Check out my [`Devpost profile`](https://devpost.com/AmeliaTYR) to see my project gallery!
 
+<!--
 <details>
 
 <summary>My Top Languages</summary>
@@ -119,6 +120,7 @@ Check out my [`Devpost profile`](https://devpost.com/AmeliaTYR) to see my projec
 ![Amelia's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameliatyr&layout=compact&langs_count=10&theme=tokyonight)
 
 </details>
+-->
 
 <div align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ameliatyr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ameliatyr&theme=tokyonight" />
