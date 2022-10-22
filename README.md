@@ -112,6 +112,8 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 Check out my [`Devpost profile`](https://devpost.com/AmeliaTYR) to see my project gallery!
 
+Check out my [`Design Portfolio`](https://drive.google.com/file/d/1YRuE3aYCtOXwQqJiiaSkR3auNe2CMP0h/view?usp=sharing) to see some of my design and art work!
+
 <!--
 <details>
 
