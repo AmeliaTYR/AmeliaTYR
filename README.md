@@ -127,8 +127,8 @@ Check out my [`Design Portfolio`](https://drive.google.com/file/d/1YRuE3aYCtOXwQ
 <div align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ameliatyr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ameliatyr&theme=tokyonight" />
 
-[![Amelia's github activity graph](https://activity-graph.herokuapp.com/graph?username=ameliatyr&theme=xcode)](https://git.io/ameliatyr)
-</div>
+<!-- [![Amelia's github activity graph](https://activity-graph.herokuapp.com/graph?username=ameliatyr&theme=xcode)](https://git.io/ameliatyr)
+</div> -->
 
 <details>
 
